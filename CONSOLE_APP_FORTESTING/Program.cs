@@ -1,7 +1,7 @@
 ﻿using System;
 
 /// <summary>
-/// Factory interface for creating objects of type T
+/// Factory interface for creating objects of type T and some thing
 /// </summary>
 public interface IFactory<T>
 {
